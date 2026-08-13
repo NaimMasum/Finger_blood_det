@@ -1,5 +1,8 @@
 # Fingerprint Blood Group Detector
 
+> [!WARNING]
+> **Disclaimer**: This is a dummy project created for demonstration and educational purposes. It is **not** scientifically possible to determine a person's blood group from fingerprint images. This application is purely a proof-of-concept simulation and must not be used for any real-world medical or diagnostic purposes.
+
 A desktop application powered by a CNN (AlexNet) model to detect blood groups from fingerprint images. It supports training on custom datasets, single-image predictions, and live detection via a connected ESP32/Arduino fingerprint sensor over serial communication.
 
 ---
